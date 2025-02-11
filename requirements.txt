@@ -1,0 +1,16 @@
+argparse
+hashlib
+os
+python-magic
+yara-python
+whois
+requests
+pillow
+pefile
+json
+datetime
+re
+math
+string
+collections
+concurrent.futures
